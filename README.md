@@ -22,7 +22,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/fuad-mahmud-768047361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/fafi2666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/fee0365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 # My Developer Portfolio
