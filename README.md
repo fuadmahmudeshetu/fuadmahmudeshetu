@@ -59,10 +59,3 @@
 | Git | Figma | Google Cloud | GraphQL | Illustrator | Postman | TensorFlow | OpenCV |
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> |
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FuadMahmud&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FuadMahmud&show_icons=true&locale=en&theme=tokyonight" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FuadMahmud&theme=tokyonight" /></p>
