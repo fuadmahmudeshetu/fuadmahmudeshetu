@@ -6,7 +6,7 @@
 
 <div align="center">
   <img align="right" alt="coding" width="350" 
-       src="">
+       height="270" alt="image" src="https://github.com/user-attachments/assets/30cba5f8-103d-4db8-91a4-923c7bd81dc5">
 </div>
 
 ### 🌐 Profile Views  
