@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Abel Mekonn </h1>
+<h1 align="center"> Hi 👋, I'm Fuad Mahmud </h1>
 
 <h3 align="center">A passionate FullStack Developer</h3>
 
@@ -26,7 +26,7 @@
 - MERN Stack  
 
 ### 📫 How to reach me  
-**📧 Email:** Abelmekonn9@gmail.com  
+**📧 Email:** fuadmahmudeshetu@gmail.com  
 
 ### ⚡ Fun Fact  
 I am **Funny 😄**
