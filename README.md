@@ -6,7 +6,7 @@
 
 <div align="center">
   <img align="right" alt="coding" width="350" 
-       src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-illustration-download-in-svg-png-gif-file-formats--coding-developer-engineer-pack-people-illustrations-3153220.png">
+       src="">
 </div>
 
 ### 🌐 Profile Views  
