@@ -1,4 +1,4 @@
-https://ibb.co/svtM60sr
+<a href="https://ibb.co/svtM60sr"><img src="https://i.ibb.co/svtM60sr/aesthetic-anime-character-gaming.png" alt="aesthetic-anime-character-gaming" border="0"></a>
 <h1 align="center">Hi 👋, I'm Fuad Mahmud</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
